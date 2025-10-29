@@ -15,9 +15,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // Professions for typewriter effect
     const professions = [
         'Full-Stack Developer',
-        'Frontend Engineer', 
+        'Frontend Developer', 
         'Backend Developer',
-        'UI/UX Enthusiast',
         'Problem Solver',
         'Tech Innovator'
     ];
